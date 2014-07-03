@@ -1,5 +1,5 @@
 #!/bin/bash
-routers=( 192.168.1.1 )
+routers=( 192.168.1.1 192.168.2.1 192.168.3.1 )
 backupdir="/home/backup/mikrotik"
 privatekey="/root/.ssh/id_dsa"
 login="user"
