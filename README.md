@@ -1,5 +1,8 @@
-Backup remote mikrotik config
-=============================
+# Backup remote mikrotik config
+
+## This script is outdated.
+
+Latest code of this script can be found [here](https://github.com/dntsk/mikrotik-backup)
 
 Script made and download config backup to server in text and binary formats.
 
